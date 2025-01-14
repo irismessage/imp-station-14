@@ -15,7 +15,7 @@ RELEASE_DIR = "release"
 # Forks should change these to publish to their own infrastructure.
 #
 ROBUST_CDN_URL = "https://cdn.impstation.gay/"
-FORK_ID = "impstation"
+FORK_ID = "impstation-staging"
 
 def main():
     session = requests.Session()
